@@ -26,7 +26,9 @@ GLUON_SITE_PACKAGES := \
 	iptables \
 	gluon-tunneldigger-watchdog \
 	gluon-migrate-vpn \
-	iwinfo
+	iwinfo \
+	gluon-ssid-changer \
+	gluon-authorized-keys
 	 
 
 GLUON_PRIORITY ?= 3
